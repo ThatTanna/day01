@@ -1,0 +1,18 @@
+git init | createa a new Git repository
+git add .
+git commit -m "title"
+git push -u origin master
+
+git status
+git remote -v (Look at remote origin)
+git branch
+git log
+
+List
+add
+delete
+String function | split (documentation)
+commit
+
+------
+git command
